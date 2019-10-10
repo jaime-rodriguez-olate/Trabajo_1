@@ -37,9 +37,6 @@ header h1{
   font-family: sans-serif;
   font-weight: normal;
   font-size: 16pt;
-  text-align: left;
-  display: inline-block;
-  
 
 }
 
@@ -47,9 +44,7 @@ header h1{
   font-family: sans-serif;
   font-weight: normal;
   font-size: 16pt;
-  text-align: left;
-  display: inline-block;
-
+  
 }
 
 .mi_experiencia {
