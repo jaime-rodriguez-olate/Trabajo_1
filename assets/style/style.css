@@ -1,10 +1,48 @@
-.colornavs{
-  background-color: #660066;
-}
-
-header{
+header {
   background-image: url('../img/bg_hero.png');
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: cover;
+  padding: 200px;
 
+}
+
+body {
+  text-align: center;
+  }
+
+
+header h2{
+  font-family: Oswald;
+  font-weight: lighter;
+  color: #fff;
+  }
+
+header   h1{
+  font-family: oswald;
+  font-weight: bold;
+  color: #fff;
+}
+
+.colornavs{
+  background-color: #660066;
+  color: #ffffff;
+}
+
+
+
+.sobre_mi{
+  padding: 50px;
+}
+
+.ultimostrabajos{
+  font-size: 70px;
+  text-align: center;
+}
+
+#pie_de_pagina {
+  text-align: right;
+}
+
+#contactos {
+  color: #fff;
 }
