@@ -17,15 +17,69 @@ header h2{
   color: #fff;
   }
 
-header   h1{
+header h1{
   font-family: oswald;
   font-weight: bold;
   color: #fff;
 }
 
+.Cuerpo {
+  color: #373A3C;
+}
+
+.texto_1 {
+  font-family: sans-serif;
+  font-weight: SemiBold;
+  font-size: 25pt;
+}
+
+.texto_2 {
+  font-family: sans-serif;
+  font-weight: normal;
+  font-size: 16pt;
+  text-align: left;
+  display: inline-block;
+  
+
+}
+
+.texto_3 {
+  font-family: sans-serif;
+  font-weight: normal;
+  font-size: 16pt;
+  text-align: left;
+  display: inline-block;
+
+}
+
+.mi_experiencia {
+  color: #373A3C;
+  font-family: Oswald;
+  font-weight: bold;
+  font-size: 52pt;
+}
+
+.contacto {
+  color:#373A3C;
+  font-family: oswald;
+  font-weight: bold;
+  font-size: 52pt;
+}
+
+.ultimos_trabajos {
+  color: #fff;
+  font-family: oswald;
+  font-weight: bold;
+  font-size: 52px;
+}
+
+
+
+
 .colornavs{
   background-color: #660066;
-  color: #ffffff;
+  text-decoration: none;
+  color: #fff;
 }
 
 
